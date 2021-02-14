@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <p>Hi! My name is <b>Raghav Sriram</b>, a 15-year-old Full Stack Developer with a passion for Pharmaceutical Sciences. I enjoy conducting research in the computational biology and biochemistry fields in the and even have a few published works. I enjoy programming in React.js, Python and TypeScript and love learning new programming languages. I am the founder of the nonprofit AcademiaEdge and co-founder of NexEdge Innovations. If you would like to chat or learn more about me feel free to send a message!</p>
-<h4>Languages I Know & Use</h4>
+<h4>Languages>Programming Languages</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
-<h4>Services & Frameworks I Know & Use</h4>
+<h4>Services & Frameworks</h4>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
@@ -26,7 +26,7 @@
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 
 
-<h4>Things I Want To Learn & Things I Am Learning</h4>
+<h4>What I want to Learn</h4>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=339933)
