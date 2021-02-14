@@ -4,13 +4,14 @@
 <p>Hi! My name is <b>Raghav Sriram</b>, a 15-year-old Full Stack Developer with a passion for Pharmaceutical Sciences. I enjoy conducting research in the computational biology and biochemistry fields in the and even have a few published works. I enjoy programming in React.js, Python and TypeScript and love learning new programming languages. I am the founder of the nonprofit AcademiaEdge and co-founder of NexEdge Innovations. If you would like to chat or learn more about me feel free to send a message!</p>
 <h4>Languages I Know & Use</h4>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
+![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=React&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
 <h4>Services & Frameworks I Know & Use</h4>
 
@@ -34,11 +35,14 @@
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=339933)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
-<h3>Connect & Contact Me!</h3>
+<h2>Selected Projects</h2>
+- [AcademiaEdge](https://github.com/AcademiaEdge)
+- [Finessify](https://github.com/RaghavSriram72/Finessify-Webapp-main)
+- [COVID-19 Epidemic Simulator](https://github.com/RaghavSriram72/Epidemics-Sim)
+
+<h2>Connect</h2>
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
 <p><a href="https://raghavsriram.me">Portfolio</a></p>
 <p><a href="https://filein.io/B-vCCDsM3l.pdf">Resume</a></p>
