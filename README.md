@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <p>Hi! My name is <b>Raghav Sriram</b>, a 15-year-old Full Stack Developer with a passion for Pharmaceutical Sciences. I enjoy conducting research in the computational biology and biochemistry fields in the and even have a few published works. I enjoy programming in React.js, Python and TypeScript and love learning new programming languages. I am the founder of the nonprofit AcademiaEdge and co-founder of NexEdge Innovations. If you would like to chat or learn more about me feel free to send a message!</p>
-<h4>Languages>Programming Languages</h4>
+<h4>Programming Languages</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -46,8 +46,4 @@
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
 <p><a href="https://raghavsriram.me">Portfolio</a></p>
 <p><a href="https://filein.io/B-vCCDsM3l.pdf">Resume</a></p>
-<p><a href="https://github.com/ericzhu105" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</a> <a href="https://www.linkedin.com/in/raghav-sriram-778076186/"" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<a href="https://hackclub.com/"><img src="https://assets.hackclub.com/flag-orpheus-left.png" width="100"></a>
+<p><a href="https://www.linkedin.com/in/raghav-sriram-778076186/">LinkedIn</a></p>
