@@ -38,9 +38,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 
 <h2>Selected Projects</h2>
-- [AcademiaEdge](https://github.com/AcademiaEdge)
-- [Finessify](https://github.com/RaghavSriram72/Finessify-Webapp-main)
-- [COVID-19 Epidemic Simulator](https://github.com/RaghavSriram72/Epidemics-Sim)
+<p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
+<p><a href="ttps://github.com/RaghavSriram72/Finessify-Webapp-main">Finessify</a></p>
+<p><a href="https://github.com/RaghavSriram72/Epidemics-Sim">COVID-19 Epidemic Simulator</a></p>
 
 <h2>Connect</h2>
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
