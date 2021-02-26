@@ -1,7 +1,7 @@
 ---
 
 <h1>About Me</h1>
-<p>My name is <b>Raghav Sriram</b>, a 15-year-old Full Stack Developer with a passion for Pharmaceutical Sciences. I enjoy conducting research in the computational biology and astrophysics fields and have a few published works. I love programming in React.js, TypScript, and Python and am always looking to learn new programming languages. I am the CEO of NexEdge Innovations and co-founder of the nonprofit AcademiaEdge. If you would like to chat or learn more about me feel free to send a message!</p>
+<p>Hello, My name is <b>Raghav Sriram</b>, and I am a 15-year-old Full Stack Developer with a passion for Pharmaceutical Sciences. I enjoy conducting research in the computational biology and astrophysics fields and have a few published works. I love programming in React.js, TypScript, and Python and am always looking to learn new programming languages. I am the CEO of NexEdge Innovations and co-founder of the nonprofit AcademiaEdge. If you would like to chat or learn more about me feel free to send a message!</p>
 
 <h4>Programming Languages</h4>
 
