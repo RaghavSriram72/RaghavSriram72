@@ -36,6 +36,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
+![PyTorch](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ---
 
 <h2>Selected Projects</h2>
