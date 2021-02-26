@@ -34,7 +34,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
-![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 
 <h2>Selected Projects</h2>
 <p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
