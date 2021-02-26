@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
-![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=React&logoColor=61DAFB)
+![Numpy]()
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
