@@ -25,7 +25,7 @@
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 
 
-<h5>What I want to Learn</h5>
+<h4>Things I Want to Learn & Things I am Currently Learning</h4>
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=339933)
