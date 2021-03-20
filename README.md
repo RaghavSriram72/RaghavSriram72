@@ -48,4 +48,3 @@
 
 <h2>Connect</h2>
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
-<p><a href="https://raghavsriram.me">Portfolio</a></p>
