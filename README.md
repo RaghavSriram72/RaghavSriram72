@@ -49,5 +49,3 @@
 <h2>Connect</h2>
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
 <p><a href="https://raghavsriram.me">Portfolio</a></p>
-<p><a href="https://filein.io/B-vCCDsM3l.pdf">Resume</a></p>
-<p><a href="https://www.linkedin.com/in/raghav-sriram-778076186/">LinkedIn</a></p>
