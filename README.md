@@ -47,4 +47,7 @@
 <p><a href="https://github.com/RaghavSriram72/Epidemics-Sim">COVID-19 Epidemic Simulator</a></p>
 
 <h2>Connect</h2>
+<p><a href="https://www.linkedin.com/in/raghav-sriram-778076186/">LinkedIn</a></p>
+<p><a href="https://raghavsriram.me/">Portfolio</a></p>
+<p><a href="https://raghavsriram.me/Coding%20Resume.pdf">Resume</a></p>
 <p><a href="mailto:rsriram101@gmail.com">Email</a></p>
