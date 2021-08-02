@@ -43,8 +43,8 @@
 
 <h2>Selected Projects</h2>
 <p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
-<p><a href="ttps://github.com/RaghavSriram72/Finessify-Webapp-main">Finessify</a></p>
-<p><a href="https://github.com/RaghavSriram72/Epidemics-Sim">COVID-19 Epidemic Simulator</a></p>
+<p><a href="https://github.com/RaghavSriram72/Characterizing-pathogenic-enhancer-activity-at-single-cell-resolution">UCI Research</a></p>
+<p><a href="https://github.com/RaghavSriram72/Sigma-Xi-Research-Website">ISEF Research Project</a></p>
 
 <h2>Connect</h2>
 <p><a href="https://www.linkedin.com/in/raghav-sriram-778076186/">LinkedIn</a></p>
