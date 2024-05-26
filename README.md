@@ -1,7 +1,7 @@
 ---
 
 <h1><b>Raghav Sriram</b></h1>
-<p>Hello, I am a student with a passion for computer science. I enjoy conducting research in the computational biology and astrophysics fields and have a few published works. I love programming in React.js, R, and Python and am always looking to learn new programming languages. If you would like to chat or learn more about me feel free to send a message!</p>
+<p>Hi! I'm Raghav, an undergraduate at UC Irvine studying computer science. I’m passionate about computer science and medicine and am always looking for new opportunities that combine these fields. In particular, I am interested in applying machine learning, artificial intelligence, software development, and biotechnology to medical spaces. If you would like to chat or learn more about me feel free to send a message!</p>
 
 <h4>Programming Languages</h4>
 
