@@ -1,7 +1,9 @@
 ---
 
 <h1><b>Raghav Sriram</b></h1>
-<p>Hi! I'm Raghav, an undergraduate at UC Irvine studying computer science. I’m passionate about computer science and medicine and am always looking for new opportunities that combine these fields. In particular, I am interested in applying machine learning, artificial intelligence, software development, and biotechnology to medical spaces. If you would like to chat or learn more about me feel free to send a message!</p>
+<p>Hi! I'm Raghav, an undergraduate at UC Irvine studying computer science and biology. I’m driven by the intersection of computation and medicine and am always seeking opportunities that combine these fields. Right now, I’m exploring these passions through my work as a Software Engineer Intern at Innervace, where I am developing data solutions for the startup, and as a researcher in the Lipkova Lab, where I'm using machine learning to analyze histological images of brain tissue.
+
+In my free time, you’ll find me attempting to sing pop songs, playing TypeRacer with friends, or enjoying a game of tennis or ping pong. I’m also an avid weightlifter and bike enthusiast (let me now if you have any trail recommendations). I am currently looking for summer 2025 internships. Feel free to reach out at sriramr2@uci.edu!</p>
 
 <h4>Programming Languages</h4>
 
