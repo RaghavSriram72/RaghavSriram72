@@ -8,7 +8,7 @@ In my free time, you’ll find me attempting to sing pop songs, playing TypeRace
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-Python-000000?style=flat&logo=python](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=007396)
 
