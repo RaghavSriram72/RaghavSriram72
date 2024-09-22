@@ -8,22 +8,21 @@ In my free time, you’ll find me attempting to sing pop songs, playing TypeRace
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![C++](https://img.shields.io/badge/-Python-000000?style=flat&logo=python](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=007396)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 <h4>Services & Frameworks</h4>
-
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=F05032)
 
 
 <h4>What I want to Learn</h4>
-
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=339933)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=339933)
