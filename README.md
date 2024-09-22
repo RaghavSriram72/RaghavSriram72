@@ -3,7 +3,7 @@
 <h1><b>Raghav Sriram</b></h1>
 <p>Hi! I'm Raghav, an undergraduate at UC Irvine studying computer science and biology. I’m driven by the intersection of computation and medicine and am always seeking opportunities that combine these fields. Right now, I’m exploring these passions through my work as a Software Engineer Intern at Innervace, where I am developing data solutions for the startup, and as a researcher in the Lipkova Lab, where I'm using machine learning to analyze histological images of brain tissue.
 
-In my free time, you’ll find me attempting to sing pop songs, playing TypeRacer with friends, or enjoying a game of tennis or ping pong. I’m also an avid weightlifter and bike enthusiast (let me now if you have any trail recommendations). I am currently looking for summer 2025 internships. Feel free to reach out at sriramr2@uci.edu!</p>
+In my free time, you’ll find me attempting to sing pop songs or playing a game of tennis or ping pong. I’m also an avid weightlifter and bike enthusiast (let me now if you have any trail recommendations). I am currently looking for summer 2025 internships. Feel free to reach out at sriramr2@uci.edu!</p>
 
 ### Programming Languages
 
