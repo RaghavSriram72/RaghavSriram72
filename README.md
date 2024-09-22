@@ -11,7 +11,7 @@ In my free time, you’ll find me attempting to sing pop songs, playing TypeRace
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=007396)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-222?&logo=wolfram-language&logoColor=DD1100)
 
