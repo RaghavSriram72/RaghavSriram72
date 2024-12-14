@@ -40,6 +40,7 @@ In my free time, I enjoy exploring national parks and playing tennis, ping pong,
 
 <h2>Selected Projects</h2>
 <p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
+<p><a href="https://github.com/RaghavSriram72/Predicting-Human-Gut-Biotransformation-Pathways">Predicting Human Gut Biotransformation Pathways</a></p>
 <p><a href="https://github.com/RaghavSriram72/Characterizing-pathogenic-enhancer-activity-at-single-cell-resolution">UCI Research</a></p>
 <p><a href="https://github.com/RaghavSriram72/Sigma-Xi-Research-Website">ISEF Research Project</a></p>
 
