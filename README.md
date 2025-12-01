@@ -38,11 +38,13 @@ In my free time, I enjoy exploring national parks, going to concerts, and playin
 ---
 
 <h2>Selected Projects</h2>
-<p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
 <p><a href="https://github.com/BTT-Cadence-Design-Systems-2A/AI-Studio-Project">Cadence Design Systems AI Studio Project</a></p>
+<p><a href="https://github.com/RaghavSriram72/Hospital-Readmission-Prediction">Hospital Readmission Prediction</a></p>
+<p><a href="https://github.com/RaghavSriram72/Predicting-Human-Gut-Biotransformation-Pathways">Predicting Human Gut Biotransformation Pathways</a></p>
 <p><a href="https://github.com/yraman17/heart-disease-prediction">Heart Disease Prediction</a></p>
 <p><a href="https://github.com/RaghavSriram72/Characterizing-pathogenic-enhancer-activity-at-single-cell-resolution">UCI Research</a></p>
 <p><a href="https://github.com/RaghavSriram72/Sigma-Xi-Research-Website">ISEF Research Project</a></p>
+<p><a href="https://github.com/AcademiaEdge">AcademiaEdge</a></p>
 
 <h2>Connect</h2>
 <p><a href="https://www.linkedin.com/in/raghav-sriram-778076186/">LinkedIn</a></p>
