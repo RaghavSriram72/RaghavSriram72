@@ -1,7 +1,11 @@
 <h1><b>Raghav Sriram</b></h1>
-<p>Hi! My name is Raghav Sriram and I am a third-year undergraduate at UC Irvine double majoring in computer science and biology. I’m driven by the intersection of computation and healthcare and am always seeking opportunities that combine these fields. Right now, I’m exploring these passions through my work as a Cornell Tech AI Studio Fellow, where I'm working with Cadence Design Systems to create a pipeline that analyzes Amazon reviews and provides product insights. I'm also an undergraduate researcher in the Lipkova Lab, where I'm using machine learning to analyze histological images of brain tissue.
-  
+<p> 
+Hi, I’m Raghav! I graduated from UC Irvine in three years with a double major in Computer Science and Neurobiology and a specialization in Intelligent Systems. Currently, I'm working at Point72 as a software engineer on the Execution Services team.
+
+I’m interested in computation, AI, medicine, neuroscience, and BCIs/brain emulation. If you’re working somewhere at the intersection of AI and medicine, please feel free to reach out! 
+
 In my free time, I enjoy exploring national parks, going to concerts, and playing tennis, ping pong, and basketball.
+  
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
